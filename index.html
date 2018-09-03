@@ -3,59 +3,86 @@ layout: default
 title: Home
 ---
 
-{% for post in site.posts limit:1 %}
+<div style="width: 100%"
+    data-vide-bg="{{ site.url }}/assets/vid/portfolio_header_lb.mp4" data-vide-options="loop: true, muted: true, position: 0% 50%">
+    <img src="{{ site.url }}/assets/img/toto-logo.png" width="50%" class="padding-20">
+</div>
+
+<div class="padding-20 imgBack vertCenter grow" style='background-image: url({{ site.url }}/assets/img/tools-1.jpg)'>
+  <div style="max-width: 70%; min-width: 300px;">
+      <h1 style='padding-top: 10px'>Welcome To The Lab!</h1>
+      <p style='padding-top: 5px' class='text'>I’m Tommi Toivonen, a Helsinki-based musician, sound designer, creative technologist with 8+ years of game audio design experience as well as 15+ years of broad experience within the music and new media fields in various kinds of projects. I currently work at <a href="http://www.vildmusic.com">VILD Music</a> as a composer and sound designer.</p>
+
+      <p class='text'>I love to experiment with new interfaces for music composition, sound design and performance control. I play my own <a href="https://www.youtube.com/watch?v=yKZ-j8Bn5jM&t=2s">UFO</a> and have two bands: <a href="http://www.wearephantom.com/">Phantom</a> and <a href="http://www.kitkaliitto.com/">Kitkaliitto</a>. 
+      </div>
+  </div>
+</div>
+
+<div class='divider2 grow'><span><h1 style="text-align: center">Latest Projects</h1></span></div>
+
+{% for post in site.categories.selected limit:1 %}
 <div class="xs-12 imgBack link textCenter vertCenter grow tall" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
-  <div>
-    <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
-    <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
+  <div class="rcorners">
+    <a class='post-title' href='{{ post.url }}'>{{ post.title }}</a>
+    <p class='meta'>{{ post.topic }} / {{ post.year }}</p>
   </div>
-</div>
+</div>  
 {% endfor %}
 
 <div class='flexbox wrap'>
-{% for post in site.posts limit:2 offset:1 %}
+{% for post in site.categories.selected limit:3 offset:1 %}
   <div class="sm-6 imgBack link vertCenter textCenter grow short" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
-    <div>
-      <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
-      <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
-    </div>
-  </div>
-{% endfor %}
-</div>
-<div class='divider xs-12 grow'></div>
-
-<div class='flexbox'>
-{% for post in site.posts limit:2 offset:3 %}
-  <div class="sm-6 textPreview vertCenter grow short">
-    <div>
-      <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
-      <p>{{ post.excerpt }}</p>
-      <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
+    <div class="rcorners">
+        <a class='post-title' href='{{ post.url }}'>{{ post.title }}</a>
+      <p class='meta'>{{ post.topic }} / {{ post.year }}</p>
     </div>
   </div>
 {% endfor %}
 </div>
 
 <div class='flexbox wrap'>
-{% for post in site.posts limit:3 offset:5 %}
-  <div class="sm-4 imgBack link vertCenter textCenter grow" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
-    <div>
-      <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
-      <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
-    </div>
-  </div>
-{% endfor %}
+    {% for post in site.categories.selected limit:3 offset:4 %}
+      <div class="sm-6 imgBack link vertCenter textCenter grow short" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
+        <div class="rcorners">
+            <a class='post-title' href='{{ post.url }}'>{{ post.title }}</a>
+          <p class='meta'>{{ post.topic }} / {{ post.year }}</p>
+        </div>
+      </div>
+    {% endfor %}
 </div>
+
+<div class='flexbox wrap'>
+    {% for post in site.categories.selected limit:3 offset:7 %}
+      <div class="sm-4 imgBack link vertCenter textCenter grow" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
+        <div class="rcorners">
+            <a class='post-title' href='{{ post.url }}'>{{ post.title }}</a>
+          <p class='meta'>{{ post.topic }} / {{ post.year }}</p>
+        </div>
+      </div>
+    {% endfor %}
+</div>
+
+<div class='flexbox wrap'>
+    {% for post in site.categories.selected limit:3 offset:10 %}
+      <div class="sm-4 imgBack link vertCenter textCenter grow" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
+        <div class="rcorners">
+            <a class='post-title' href='{{ post.url }}'>{{ post.title }}</a>
+          <p class='meta'>{{ post.topic }} / {{ post.year }}</p>
+        </div>
+      </div>
+    {% endfor %}
+</div>
+
+<div class='divider2 grow'>a</div>
+
+<div class="padding-20 imgBack vertCenter grow" style='background-color: #000000'>
+  <div style="max-width: 70%; min-width: 300px;">
+      <h1 style='padding-top: 10px'>Enquiries</h1>
+
+      <p style='padding-top: 5px' class='text'>You can contact me by sending email to tkoskin (at) gmail.com</p>
+      </div>
+  </div>
+</div>
+
 <div class='divider xs-12 grow'></div>
 
-<div class='flexbox'>
-{% for post in site.posts limit:2 offset:8 %}
-  <div class="sm-6 textPreview vertCenter grow short">
-    <div>
-      <a class='caps post-title' href='{{ post.url }}'>{{ post.title }}</a>
-      <p>{{ post.excerpt }}</p>
-      <p class='meta'>{{ post.date | date_to_long_string }} / by {{ post.author }}</p>
-    </div>
-  </div>
-{% endfor %}
-</div>
