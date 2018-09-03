@@ -1,0 +1,33 @@
+---
+layout: default
+title: Video
+thumbnail: video-bg.jpg
+---
+
+<div class="padding-20 imgBack vertCenter grow" style='background-color: #000000'>
+  <div style="text-align: left;">
+      <h1 style='padding-top: 10px; padding-bottom: 10px;'>VIDEO, TV, FILM, ADS</h1>
+</div>
+</div>
+
+<div class="padding-20 imgBack vertCenter grow" style='background-color: #000000'>
+  <div style="max-width: 70%; min-width: 300px; text-align: left;">
+      <p style='padding-top: 5px' class='text'>
+      Here you can find some of my audio work for linear media (mainly TV and web videos).</p>
+      <p class='text'>For some of these projects I've also done the voiceover recordings with the actors and created the mixdowns in LUFS 23 mastered standard for broadcast audio.</p>
+  </div>
+</div>
+
+<div class='divider2 padding-20-left'><span><h1>Video, TV, Film Projects</h1></span></div>
+
+<div class='flexbox wrap'>
+    {% for post in site.categories.tv %}
+    <div class="sm-4 imgBack link vertCenter textCenter grow" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
+      <div class="rcorners">
+          <a class='post-title' href='{{ post.url }}'>{{ post.title }}</a>
+          <p class='meta'>{{ post.topic }} / {{ post.year }}</p>
+        </div>
+      </div>
+    {% endfor %}
+</div>
+<div class='divider xs-12 topBarTrigger'></div>

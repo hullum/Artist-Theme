@@ -1,0 +1,17 @@
+---
+layout: post
+title:  OP Commercials
+date:   2017-09-01 09:11:03
+description: Sound design for a series of TV advertisements
+thumbnail: op-1.jpg
+categories: tv
+
+# Information for the author block
+author: "Tommi Toivonen"
+topic: "TV: Sound Design"
+year: 2017
+---
+
+Series of TV advertisements for OP
+
+Commissioned by VILD Music

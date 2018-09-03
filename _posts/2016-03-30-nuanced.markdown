@@ -1,0 +1,25 @@
+---
+layout: post
+title:  Nuanc3d
+date:   2016-01-30 09:11:03
+description: Music & Sound design for contemporary circus
+thumbnail: nuanced-1.jpg
+categories: installation selected
+
+# Information for the author block
+author: Toto
+topic: "Performing Arts: Music & Sound Design"
+year: 2016
+---
+
+Music production, sound design, live programming of music and visuals
+
+"Nuanc3d is a powerful artwork at the crossroads between contemporary circus, media art and music. The performers' movement and media art based on sensor technology create a uniform, intensely visual world. Captured by the kinetic sensor, the performers’ movement is reflected on the big screen as a real-time video image that creates a three-dimensional impression, in which reality and media art are brought together." - Stoa
+
+## Watch the trailer
+
+<iframe src="https://player.vimeo.com/video/175205429" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/175205429">Agit-Cirk - Nuanc3d - 2min Trailer</a> from <a href="https://vimeo.com/agitcirk">Agit Cirk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/152967687" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/152967687">Nuanc3d teaser</a> from <a href="https://vimeo.com/agitcirk">Agit Cirk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

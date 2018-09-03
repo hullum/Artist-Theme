@@ -1,0 +1,32 @@
+---
+layout: default
+title: Music
+thumbnail: music-bg-wide.jpg
+---
+
+<div class="padding-20 imgBack vertCenter grow" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ page.thumbnail }})'>
+  <div style="text-align: left;">
+      <h1 style='padding-top: 10px; padding-bottom: 10px;'>Music Production</h1>
+</div>
+</div>
+
+<div class="padding-20 imgBack vertCenter grow" style='background-color: #000000'>
+  <div style="max-width: 70%; min-width: 300px; text-align: left;">
+      <p style='padding-top: 5px' class='text'>
+      Here you can find music from my bands, Phantom & Kitkaliitto, and later on I will start posting some unreleased tunes here as well!</p>
+  </div>
+</div>
+
+<div class='divider2 padding-20-left'><span><h1>Official Releases</h1></span></div>
+
+<div class='flexbox wrap'>
+    {% for post in site.categories.music %}
+    <div class="sm-4 imgBack link vertCenter textCenter grow" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
+      <div class="rcorners">
+          <a class='post-title' href='{{ post.url }}'>{{ post.title }}</a>
+          <p class='meta'>{{ post.topic }} / {{ post.year }}</p>
+        </div>
+      </div>
+    {% endfor %}
+</div>
+<div class='divider xs-12 topBarTrigger'></div>

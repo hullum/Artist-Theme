@@ -1,0 +1,23 @@
+---
+layout: post
+title:  ">1000Hertz"
+date:   2013-02-01 09:11:03
+description: Sound Design for an art exhibition
+thumbnail: 1000hertz.jpg
+categories: installation
+
+# Information for the author block
+author: "Toto"
+topic: "Installation: Hardware & Programming"
+year: 2013
+client: "UdK Berlin, SomoS"
+---
+
+Under construction, more info to follow...
+
+## Watch the trailer here
+
+<iframe src="https://player.vimeo.com/video/61003670" width="640" height="308" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/61003670">&gt;1000Hertz</a> from <a href="https://vimeo.com/andrewakko">andre wakko</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+More info: https://www.somos-arts.org/1000hertz/

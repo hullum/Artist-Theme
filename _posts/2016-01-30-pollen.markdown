@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Pollen
+date:   2016-01-30 09:11:03
+description: Sound design for a game
+thumbnail: pollen.jpg
+categories: gameaudio selected
+
+# Information for the author block
+author: Toto
+topic: "Game Audio: Player VO Director"
+client: "Mindfield Games"
+year: 2016
+---
+
+#### Client: Mindfield Games
+I was responsible for directing the VO talent, recording, editing and mixing the male and female player VO sounds for the game. 
+
+## Watch the game trailer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0sikKm-Fhhk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

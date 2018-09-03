@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Anatude
+date:   2017-10-29 09:11:03
+description: Sound Design for a game
+thumbnail: anatude.jpg
+categories: gameaudio selected
+
+# Information for the author block
+author: "Tommi Toivonen"
+topic: "Game Audio: Sound Design"
+client: "PAF Game Studio"
+year: 2018
+---
+
+#### Client: PAF Game Studio
+
+Anatude is a slot game developed by PAF Game Studio. It is based on Antti Tuisku, one of the most known popstars in Finland, and his fictional concert. I was responsible for the overall sound design and music editing. I created all the in-game / trailer sound assets that matched and played well with Antti Tuisku's music. 
+
+If you want to try the game, you can play a free demo here:<br>
+<a href=https://www.paf.com/slots/demo/paf/?game=anatude">https://www.paf.com/slots/demo/paf/?game=anatude</a>
