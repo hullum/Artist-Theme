@@ -24,7 +24,7 @@ thumbnail: video-bg.jpg
     {% for post in site.categories.tv %}
     <div class="sm-4 imgBack link vertCenter textCenter grow" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
       <div class="rcorners">
-          <a class='post-title' href='{{ post.url }}'>{{ post.title }}</a>
+          <a class='post-title' href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a>
           <p class='meta'>{{ post.topic }} / {{ post.year }}</p>
         </div>
       </div>
