@@ -33,7 +33,7 @@ Temporary Items
 _site/
 .sass-cache/
 .jekyll-metadata
-
+_config.yml
 
 ### Sass ###
 .sass-cache/
