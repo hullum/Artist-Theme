@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The UFO Controller"
-date:   2017-10-20 09:11:03
+date:   2015-05-01 09:11:03
 description: Gestural MIDI Controller
 thumbnail: ufo_1.jpg
 categories: hardware installation selected
