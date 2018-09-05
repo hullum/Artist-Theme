@@ -10,6 +10,7 @@ categories: music selected
 author: "Tommi Toivonen"
 topic: "Music"
 year: 2017
+client: "Phantom"
 ---
 
 "Phantom is the fruit of love of two artists, music lovers, geeks, misfits and treadmill rebels, who funnel their existence in the time-space-continuum into something of a new media spiced black magic. 'MMXII' is the debut album of the duo which started in early 2012."

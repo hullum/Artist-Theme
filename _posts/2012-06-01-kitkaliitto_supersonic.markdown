@@ -10,6 +10,7 @@ categories: music selected
 author: "Tommi Toivonen"
 topic: "Music"
 year: 2012
+client: "Kitkaliitto"
 ---
 
 Kitkaliitto makes lush electronic music with an adventurous mindset. 

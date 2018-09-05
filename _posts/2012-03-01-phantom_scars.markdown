@@ -10,6 +10,7 @@ categories: music selected
 author: "Tommi Toivonen"
 topic: "Music"
 year: 2012
+client: "Phantom"
 ---
 
 "Phantom is the fruit of love of two artists, music lovers, geeks, misfits and treadmill rebels, who funnel their existence in the time-space-continuum into something of a new media spiced black magic. 'Scars EP' is the first thing the duo brought out to the world in March 2012. It featured the song 'Scars' which was later picked up by The XX and Internet music blogs..."

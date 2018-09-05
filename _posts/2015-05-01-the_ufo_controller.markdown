@@ -10,6 +10,7 @@ categories: hardware installation selected
 author: "Tommi Toivonen"
 topic: "MIDI Controller: Design, HW & Programming"
 year: 2015
+client: "Toto's Soundlab"
 ---
 
 My Master's Thesis project for Aalto ARTS / Helsinki Media Lab. It's been on the road with me for over hundred shows around the world... 

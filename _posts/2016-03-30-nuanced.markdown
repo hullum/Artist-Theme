@@ -10,6 +10,7 @@ categories: installation selected
 author: Toto
 topic: "Performing Arts: Music & Sound Design"
 year: 2016
+client: "Agit Cirk"
 ---
 
 Music production, sound design, live programming of music and visuals

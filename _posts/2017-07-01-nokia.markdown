@@ -10,5 +10,6 @@ categories: tv
 author: "Tommi Toivonen"
 topic: "TV: Sound Design"
 year: 2017
+client: "Nokia"
 ---
 Under construction - Project details coming soon...

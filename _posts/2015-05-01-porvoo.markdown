@@ -13,6 +13,11 @@ year: 2015
 client: "Matlock Visuals / Porvoo City"
 ---
 
-Projection mapping piece for the city hall of Porvoo.
+Projection mapping piece for the city hall of Porvoo commissioned by Sounds 2015 festival. I made the sound design for the animated visuals by Matlock Visuals.
 
-Under construction - Project details coming soon...
+You can find more info about the project from [Matlock Visuals](http://www.http://matlockvisuals.com/).
+
+## Photos of the projection mapping
+
+<img src="{{ site.url }}/assets/img/matlock_the_sounds_2015_1.jpg" width="100%">
+<img src="{{ site.url }}/assets/img/matlock_the_sounds_2015_2.jpg" width="100%">
