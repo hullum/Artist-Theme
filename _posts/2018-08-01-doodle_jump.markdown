@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Doodle Jump
-date:   2017-10-01 09:11:03
+date:   2018-08-01 09:11:03
 description: Sound Design for a game
 thumbnail: doodle_jump_1.jpg
 categories: gameaudio selected

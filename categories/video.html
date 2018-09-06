@@ -13,8 +13,8 @@ thumbnail: video-bg.jpg
 <div class="padding-20 imgBack vertCenter grow" style='background-color: #000000'>
   <div style="max-width: 70%; min-width: 300px; text-align: left;">
       <p style='padding-top: 5px' class='text'>
-      Here you can find some of my audio work for linear media (mainly TV and web videos).</p>
-      <p class='text'>For some of these projects I've also done the voiceover recordings with the actors and created the mixdowns in LUFS 23 mastered standard for broadcast audio.</p>
+      Here you can find some of my audio work for linear media (mainly TV and online videos).</p>
+      <p class='text'>For many of these projects I've also done the voiceover recordings with the actors and created the final mixdowns in various audio broadcasting standards.</p>
   </div>
 </div>
 
@@ -25,7 +25,8 @@ thumbnail: video-bg.jpg
     <div class="sm-4 imgBack link vertCenter textCenter grow" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
       <div class="rcorners">
           <a class='post-title' href='{{ post.url }}'>{{ post.title }}</a>
-          <p class='meta'>{{ post.topic }} / {{ post.year }}</p>
+          <p class='meta' style="margin-bottom:0px">{{ post.topic }} / {{ post.year }}</p>
+          <p style="font-size:12px; margin-top:4px">{{ post.client }}</p>          
         </div>
       </div>
     {% endfor %}

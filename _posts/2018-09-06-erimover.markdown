@@ -1,0 +1,24 @@
+---
+layout: post
+title:  Erimover Brand Film
+date:   2018-09-06 09:11:03
+description: Sound design for a TV advertisement
+thumbnail: erimover.jpg
+categories: tv selected
+
+# Information for the author block
+author: "Tommi Toivonen"
+topic: "TV & Online: Music, Sound Design"
+year: 2018
+client: "Erimover"
+---
+
+#### FEEL GOOD. GO STRONG.
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffeelgoodgostrong%2Fvideos%2F467212367126010%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+Commissioned by VILD Music  
+Client: Erimover
+Agency: Helsinking
+
+Intense, strong, athletic and empowering. That's what Erimover stands for. That is something I also wanted to achieve with the music and sound design.
