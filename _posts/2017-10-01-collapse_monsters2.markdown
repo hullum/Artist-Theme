@@ -4,7 +4,7 @@ title:  Collapse Monsters 2
 date:   2017-10-01 09:11:03
 description: Sound Design for a game
 thumbnail: collapse_monsters_2.jpg
-categories: gameaudio selected
+categories: gameaudio
 
 # Information for the author block
 author: "Tommi Toivonen"

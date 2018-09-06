@@ -67,7 +67,7 @@ title: Home
 </div>
 
 <div class='flexbox wrap'>
-    {% for post in site.categories.selected limit:3 offset:10 %}
+    {% for post in site.categories.selected limit:6 offset:10 %}
       <div class="sm-4 imgBack link vertCenter textCenter grow" style='background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1) ), url({{ site.url }}/assets/img/{{ post.thumbnail }})'>
         <div class="rcorners">
             <a class='post-title' href='{{ post.url }}'>{{ post.title }}</a>
