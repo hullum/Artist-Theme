@@ -19,7 +19,7 @@ You can find more info about the project from [Matlock Visuals](http://www.http:
 
 ## Listen to the sounds
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/495720087%3Fsecret_token%3Ds-qNEOM&color=%23ff1e95&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/495720087%3Fsecret_token%3Ds-qNEOM&color=%2333cccc&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ## Photos by Natalia Kopkina
 
