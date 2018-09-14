@@ -15,7 +15,8 @@ client: "Erimover"
 
 #### FEEL GOOD. GO STRONG.
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffeelgoodgostrong%2Fvideos%2F467212367126010%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe src="https://player.vimeo.com/video/287866920" width="640" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/287866920">Erimover // Feel Good. Go Strong.</a> from <a href="https://vimeo.com/helsinking">Helsinking</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Commissioned by VILD Music  
 Client: Erimover  

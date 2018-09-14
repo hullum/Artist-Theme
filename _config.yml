@@ -5,20 +5,24 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 # Jekyll Defaults
 title: Toto's Soundlab
-email: your-email@domain.com
-description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+email: tommi@totosoundlab.com
+description: Toto's Soundlab - Music, Sound Design and Creative Technology projects by Tommi Toivonen
+# baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
-url: "https://hullum.github.io/portfolio"
-url-pretty: "hullum.github.io/portfolio"
+# url: "http://localhost:4000"
+# url-pretty: "http://localhost:4000"
 # When developing, set this ^ equal to whatever localhost you're using
 
 # Socail Media links
 # Use these to link users to your organization's social media sites
-twitter: 
-facebook:
-google:
+
+twitter: https://twitter.com/tommikoskinen
+facebook: 
+google: 
 
 author: Tommi Toivonen
 authorBio: Sound Designer, Musician & Media Artist
+
+plugins:
+  - jekyll-seo-tag
