@@ -6,7 +6,7 @@ exclude: ["node_modules", "gulpfile.js", "package.json"]
 # Jekyll Defaults
 title: Toto's Soundlab
 email: tommi@totosoundlab.com
-description: Toto's Soundlab - Music, Sound Design and Creative Technology projects by Tommi Toivonen
+description: Music, Sound Design and Creative Technology by Tommi Toivonen
 # baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
