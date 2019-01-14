@@ -10,6 +10,7 @@ description: Toto's Soundlab - Music, Sound Design and Creative Technology proje
 # baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 
 # Where can people find your site?
+url: "https://www.totosoundlab.com"
 # url: "http://localhost:4000"
 # url-pretty: "http://localhost:4000"
 # When developing, set this ^ equal to whatever localhost you're using
