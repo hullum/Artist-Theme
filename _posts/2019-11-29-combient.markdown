@@ -1,0 +1,23 @@
+---
+layout: post
+title:  Combient Slush 2019
+date:   2019-11-29 09:11:03
+description: Sound design for a CTA film
+thumbnail: combient.jpg
+categories: tv selected
+
+# Information for the author block
+author: "Tommi Toivonen"
+topic: "Brand film: Sound Design + VO"
+year: 2019
+client: "Combient"
+---
+
+Glitchy and futuristic sound design for a CTA (call to action) film. I also recorded and mixed the voiceover. 
+#### 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a6DAfTtvrJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Commissioned by VILD Music  
+Client: Combient  
+Production Company: Kauas

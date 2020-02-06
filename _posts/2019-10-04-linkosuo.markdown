@@ -1,0 +1,27 @@
+---
+layout: post
+title:  Linkosuo
+date:   2019-10-04 09:11:03
+description: Sound design and voiceover for TV ads
+thumbnail: linkosuo.jpg
+categories: tv selected
+
+# Information for the author block
+author: "Tommi Toivonen"
+topic: "TV Ads: Sound Design + VO"
+year: 2019
+client: "Linkosuo"
+---
+
+#### 
+
+Sound design for the Linkosuo TV advertisements in the Fall 2019. Prepare to be disgusted. I also recorded & mixed the voiceover in the ending. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ku_2fA5GY8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y2HMYMMnJbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Commissioned by VILD Music  
+Client: Linkosuo  
+Production Company: Bob The Robot Pictures  
+Director: Teemu Niukkanen

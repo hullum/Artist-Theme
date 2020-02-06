@@ -1,0 +1,24 @@
+---
+layout: post
+title:  Sony x AI
+date:   2019-09-30 09:11:03
+description: Music for a concept film
+thumbnail: sony_ai.jpg
+categories: tv selected
+
+# Information for the author block
+author: "Tommi Toivonen"
+topic: "Concept film: Music"
+year: 2019
+client: "Sony"
+---
+
+#### 
+
+I composed the technology-infused music track for Sony's AI concept film.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qcHH8Da--Ew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Commissioned by VILD Music  
+Client: Sony  
+Production Company: Black Cat White Cat

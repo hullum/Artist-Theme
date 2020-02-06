@@ -15,5 +15,8 @@ year: 2018
 
 #### Client: Gamblit
 
-This game audio project was done with VILD Factory. I created original music (8 theme songs with different styles) and sound design for the game. I will post game audio samples and video once the game is out later in 2018. 
+This game audio project was done with VILD Factory. I created original music (8 theme songs with different styles) and sound design for the game. 
 
+## Watch a gameplay video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nqjU3CREmxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,24 @@
+---
+layout: post
+title:  UNIQLO Fall 2019
+date:   2019-10-10 09:11:03
+description: Music and sound design for a TV ad
+thumbnail: uniqlo.jpg
+categories: tv selected
+
+# Information for the author block
+author: "Tommi Toivonen"
+topic: "TV Ad: Music, Sound Design"
+year: 2019
+client: "Uniqlo"
+---
+
+#### 
+
+Music and sound design for the Uniqlo Winter 2019 international TV ad.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8E80vM8p55M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Commissioned by VILD Music  
+Client: Uniqlo  
+Production Company: Black Cat White Cat
