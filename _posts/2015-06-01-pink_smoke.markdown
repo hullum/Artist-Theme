@@ -24,4 +24,6 @@ Original Music (with Niko Ryytty), Additional Sound Design, Sound Recordist
 
 ## Watch the teaser trailer here
 
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/5FSu6KLcpp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="100%" height="420" src="https://www.youtube.com/embed/5FSu6KLcpp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>

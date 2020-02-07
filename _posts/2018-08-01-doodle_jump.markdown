@@ -19,4 +19,6 @@ This game audio project was done with VILD Factory. I created original music (8 
 
 ## Watch a gameplay video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nqjU3CREmxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/nqjU3CREmxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

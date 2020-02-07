@@ -21,13 +21,17 @@ I was responsible for the sound design and music editing of the game. I created 
 
 ## Watch a gameplay video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YMqNFE-EfB0?start=133" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/YMqNFE-EfB0?start=133" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 I will post some fresh gameplay videos soon!
 
 ## Watch the game trailer
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T5y6SKtNmo4?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/T5y6SKtNmo4?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ## Recording MTBs indoor
 

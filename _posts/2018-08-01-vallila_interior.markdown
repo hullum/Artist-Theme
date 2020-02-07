@@ -15,10 +15,13 @@ client: "Vallila Interior"
 
 #### Vallila AW18 Collection: Tarinoita veden ääreltä / Stories by the water
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ttOkkYn3McE?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+I created the sea and nature soundscapes for the Vallila Interior Fall 2018 video. A lot of my own field recordings from Suomenlinna and Baltic Sea ended up being used in this production. 
+
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/ttOkkYn3McE?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 Commissioned by VILD Music  
 Client: Vallila Interior  
 Agency: Vaisto Creative
 
-I created the sea and nature soundscapes for the Vallila Interior Fall 2018 video. A lot of my own field recordings from Suomenlinna and Baltic Sea ended up being used in this production. 

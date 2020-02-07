@@ -18,8 +18,12 @@ I was responsible for creating the in-game sound effects, character VO assets an
 
 ## Watch the game trailer
 
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/TtxjImDy9rk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="100%" height="420" src="https://www.youtube.com/embed/TtxjImDy9rk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ## Watch the gameplay video
 
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/kDou4a148aA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="100%" height="420" src="https://www.youtube.com/embed/kDou4a148aA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>

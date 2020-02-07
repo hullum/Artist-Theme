@@ -17,6 +17,8 @@ Music, sound design, 5.1 mixing
 
 Under construction, more info to follow...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/up0Ex77L-JI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/up0Ex77L-JI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 More info about the exhibition: https://www.jaanapartanen.fi/mielen-alkemiaa/ (in Finnish)

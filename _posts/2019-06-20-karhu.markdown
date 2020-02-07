@@ -13,17 +13,21 @@ year: 2019
 client: "Karhu"
 ---
 
-#### 
-
 Sound design for the Karhu TV advertisements in the Summer 2019. I also recorded & mixed the voiceover in the ending. 
 
-<iframe src="https://player.vimeo.com/video/337246799?title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://player.vimeo.com/video/337246799?title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 <p><a href="https://vimeo.com/337246799">Karhu - Vilvoittelu</a> from <a href="https://vimeo.com/koskisyvari">Koski Syv&auml;ri</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-<iframe src="https://player.vimeo.com/video/337246782?title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://player.vimeo.com/video/337246782?title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 <p><a href="https://vimeo.com/337246782">Karhu - Saunan l&auml;mmitys</a> from <a href="https://vimeo.com/koskisyvari">Koski Syv&auml;ri</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-<iframe src="https://player.vimeo.com/video/337246761?title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://player.vimeo.com/video/337246761?title=0&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 <p><a href="https://vimeo.com/337246761">Karhu - L&ouml;ylyt</a> from <a href="https://vimeo.com/koskisyvari">Koski Syv&auml;ri</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Commissioned by VILD Music  

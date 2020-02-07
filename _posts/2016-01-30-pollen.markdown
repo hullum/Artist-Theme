@@ -14,8 +14,10 @@ year: 2016
 ---
 
 #### Client: Mindfield Games
-I was responsible for directing the VO talent, recording, editing and mixing the male and female player VO sounds for the game. 
+I was responsible for directing the player character VO talent, recording, editing and mixing the male and female player VO sounds for the game. These were the non-dialogue sounds (as the PCs don't speak in the game), ie. sounds for all the actions that player character does in the game.  
 
 ## Watch the game trailer
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0sikKm-Fhhk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/0sikKm-Fhhk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>

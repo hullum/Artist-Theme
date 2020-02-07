@@ -19,9 +19,13 @@ Supersonic is an adrenaline-charged, music-driven 3D ride game. The players blaz
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/767967&amp;color=%23ff1e95&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/GtTY1U6uy0k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="100%" height="420" src="https://www.youtube.com/embed/GtTY1U6uy0k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/WrzXJQR8bQQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="100%" height="420" src="https://www.youtube.com/embed/WrzXJQR8bQQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ## Listen to Supersonic OST on SoundCloud
 

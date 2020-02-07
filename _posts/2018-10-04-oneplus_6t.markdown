@@ -1,0 +1,25 @@
+---
+layout: post
+title:  OnePlus 6T - Tap into the future
+date:   2018-10-04 09:11:03
+description: Sound design for a TV advertisement
+thumbnail: oneplus6t.jpg
+categories: tv selected
+
+# Information for the author block
+author: "Tommi Toivonen"
+topic: "TV Ad: Music, Sound Design, VO"
+year: 2018
+client: "OnePlus"
+---
+
+I created the music and sounds for the OnePlus 6T international TV ad. I also recorded and mixed the VO. 
+
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/8o33yfiX1xc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Commissioned by VILD Music  
+Client: OnePlus
+Agency: Kameron
+

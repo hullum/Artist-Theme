@@ -13,11 +13,11 @@ year: 2019
 client: "Sony"
 ---
 
-#### 
-
 I composed the technology-infused music track for Sony's AI concept film.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qcHH8Da--Ew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/qcHH8Da--Ew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Commissioned by VILD Music  
 Client: Sony  

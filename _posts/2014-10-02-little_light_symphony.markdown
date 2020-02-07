@@ -19,5 +19,6 @@ Under construction, more info to follow...
 
 ## Watch the trailer here
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7vK_47RxEDo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/7vK_47RxEDo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>

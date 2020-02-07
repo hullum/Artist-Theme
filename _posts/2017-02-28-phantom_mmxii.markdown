@@ -29,9 +29,13 @@ Album coverart by Tekla Valy.
 
 ## Album Music Videos
 
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/M6h2bqRCYtU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="100%" height="420" src="https://www.youtube.com/embed/M6h2bqRCYtU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/8_57zYw0V5o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="100%" height="420" src="https://www.youtube.com/embed/8_57zYw0V5o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ## More information
 

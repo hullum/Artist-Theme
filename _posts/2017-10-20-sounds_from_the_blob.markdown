@@ -15,7 +15,9 @@ client: "Kiasma / ARS 17"
 
 #### In the category: Noisy and experimental sound art pieces
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hc0MNI4izbI?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/Hc0MNI4izbI?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 What happened when we added conductive dough, electronics, interface & sound design to the mix? Sounds From The Blop! 
 

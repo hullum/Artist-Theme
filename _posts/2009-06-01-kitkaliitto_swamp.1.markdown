@@ -32,7 +32,8 @@ Kitkaliitto - 'Swamp' was released in 2009 by Kann Records. Enjoy!
 
 ## Music videos
 
-<iframe width="100%" height="420" src="https://www.youtube.com/embed/uX63eBnjPKE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="resp-container"><iframe class="resp-iframe" width="100%" height="420" src="https://www.youtube.com/embed/uX63eBnjPKE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ## More information
 

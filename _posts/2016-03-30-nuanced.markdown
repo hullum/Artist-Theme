@@ -19,8 +19,12 @@ Music production, sound design, live programming of music and visuals
 
 ## Watch the trailer
 
-<iframe src="https://player.vimeo.com/video/175205429" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://player.vimeo.com/video/175205429" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 <p><a href="https://vimeo.com/175205429">Agit-Cirk - Nuanc3d - 2min Trailer</a> from <a href="https://vimeo.com/agitcirk">Agit Cirk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-<iframe src="https://player.vimeo.com/video/152967687" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/152967687">Nuanc3d teaser</a> from <a href="https://vimeo.com/agitcirk">Agit Cirk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://player.vimeo.com/video/152967687" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+<p><a href="https://vimeo.com/152967687">Nuanc3d Teaser</a> from <a href="https://vimeo.com/agitcirk">Agit Cirk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

@@ -1,0 +1,24 @@
+---
+layout: post
+title:  Maggi
+date:   2018-08-20 09:11:03
+description: Sound design for a TV advertisement
+thumbnail: maggi.jpg
+categories: tv selected
+
+# Information for the author block
+author: "Tommi Toivonen"
+topic: "TV Ad: Sound Design, VO"
+year: 2018
+client: "Maggi"
+---
+
+Sound design, VO recording and mixing for a food TV advertisement. 
+
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/-yGwrtV-6Gk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Commissioned by VILD Music  
+Director: Johannes Östergård
+

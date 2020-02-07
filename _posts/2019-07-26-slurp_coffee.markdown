@@ -13,11 +13,11 @@ year: 2019
 client: "Slurp"
 ---
 
-#### 
-
 I created the quirky and playful musical audio identity for SLURP coffee, a service that is all about specialty coffees. Slurp!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pCvxhdPO2oU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/pCvxhdPO2oU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Commissioned by VILD Music  
 Client: SLURP Coffee

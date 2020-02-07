@@ -13,13 +13,15 @@ year: 2019
 client: "Vaasan leipomot"
 ---
 
-#### 
-
 Sound design for the Vaasan Vierasvaara TV advertisements in late 2019. I also recorded and mixed the ending voiceover.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dxdwEoj3Y4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/dxdwEoj3Y4c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pCyZoiIV0l4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/pCyZoiIV0l4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Commissioned by VILD Music  
 Client: Vaasan leipomot  

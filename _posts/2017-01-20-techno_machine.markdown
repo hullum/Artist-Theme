@@ -15,7 +15,9 @@ client: "Mehackit"
 
 #### A DIY user interface and step sequencer for Sonic Pi 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/adz1Gv5Lm34?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/adz1Gv5Lm34?showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 Techno Machine is a simple synth app made with Sonic Pi and Processing. I was teaching a lot with Sonic Pi and Processing while working at <a href="http://www.mehackit.org">Mehackit</a> so we wanted to create a simple project that combines the best out of those two. That's how Techno Machine got started... 
 

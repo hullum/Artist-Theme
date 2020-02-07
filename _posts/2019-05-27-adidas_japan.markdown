@@ -13,11 +13,11 @@ year: 2019
 client: "Adidas"
 ---
 
-#### 
-
 Music for the Adidas Adizero Boston 8 shoes TV ad in Japan.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iwDxSePMHxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/iwDxSePMHxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Commissioned by VILD Music  
 Client: Adidas  

@@ -13,11 +13,11 @@ year: 2019
 client: "Kauas"
 ---
 
-#### 
-
 I had the honor to create sounds for this kick-ass Kauas showreel in 2019. I hope you enjoy!
 
-<iframe src="https://player.vimeo.com/video/313143161?color=ffffff&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://player.vimeo.com/video/313143161?color=ffffff&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 <p><a href="https://vimeo.com/313143161">Kauas Creative - Showreel 2019</a> from <a href="https://vimeo.com/kauas">KAUAS</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Commissioned by VILD Music  

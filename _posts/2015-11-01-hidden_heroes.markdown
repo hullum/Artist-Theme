@@ -19,4 +19,6 @@ I composed original music for the game and created all of the in-game sound effe
 
 ## Watch the gameplay video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d2B5iU-igWY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/d2B5iU-igWY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>

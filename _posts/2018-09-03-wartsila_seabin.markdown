@@ -17,7 +17,9 @@ client: "Wärtsilä"
 
 I created spatial ambisonics sound design for this Wärtsilä concept film about the Seabin trash collector. I used Reaper to sequence the sounds, FB360 for the ambisonics encoding, Audioease panners to spatialize the sounds and Ambi Limiter HD for mixing to a certain LUFS level. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mJbsGsqwvtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/mJbsGsqwvtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Commissioned by VILD Music  
 Client: Wärtsilä   

@@ -26,5 +26,6 @@ _The installation runs on a loop without a beginning or end. It should be viewed
 ----
 
 ## Watch a video preview of the work
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wdG9RbzK-JI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/wdG9RbzK-JI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

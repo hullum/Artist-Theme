@@ -13,9 +13,9 @@ year: 2019
 client: "Constantin Hartenstein"
 ---
 
-#### 
-
 I created the aggressive, harsh and cold sounds for the film installation NARC by Constantin Hartenstein. It investigates the loneliness of individuals needs to achieve a perfect appearance in the surrounding narcistic culture. NARC was first exhibited at Kunsthalle Baden-Baden in September 2019.
 
-<iframe src="https://player.vimeo.com/video/375403361" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://player.vimeo.com/video/375403361" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 <p><a href="https://vimeo.com/375403361">NARC I video excerpt</a> from <a href="https://vimeo.com/constantinhartenstein">Constantin Hartenstein</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

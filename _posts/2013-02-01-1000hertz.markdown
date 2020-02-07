@@ -17,7 +17,9 @@ Under construction, more info to follow...
 
 ## Watch the trailer here
 
-<iframe src="https://player.vimeo.com/video/61003670" width="640" height="308" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://player.vimeo.com/video/61003670" width="640" height="308" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 <p><a href="https://vimeo.com/61003670">&gt;1000Hertz</a> from <a href="https://vimeo.com/andrewakko">andre wakko</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 More info: https://www.somos-arts.org/1000hertz/
