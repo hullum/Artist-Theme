@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Sight 3D"
+date:   2018-11-30 09:11:03
+description: Music and sound design for an installation
+thumbnail: sight3d.jpg
+categories: installation selected
+
+# Information for the author block
+author: "Tommi Toivonen"
+topic: "Projection Mapping: Music, Sound Design"
+year: 2018
+client: "Partanen & Lamusuo"
+---
+
+I created the soundtrack for the "Sight 3D" projection mapping work by Partanen & Lamusuo. It was first projected on the facade of Joensuu Art Museum in November 2018. The work illustrates all the specialty art collections of the museum
+
+## Watch a video preview of the work
+<div class="resp-container">
+<iframe class="resp-iframe" width="560" height="315" src="https://www.youtube.com/embed/cGVSAlFPGGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
